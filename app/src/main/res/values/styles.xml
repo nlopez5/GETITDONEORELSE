@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Theme for RandomActivity -->
+    <style name="Theme.RandomActivity" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF0055</item>
+        <item name="colorPrimaryDark">#FF0055</item>
+        <item name="colorAccent">#FF0055</item>
+    </style>
+
+    <!-- PinkBar style for RandomActivity -->
+    <style name="PinkBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">#FF0055</item>
+    </style>
+
+    <!-- Theme for DismissActivity -->
+    <style name="Theme.DismissActivity" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#1A1A1A</item>
+        <item name="colorPrimaryDark">#1A1A1A</item>
+        <item name="colorAccent">#1A1A1A</item>
+    </style>
+
+    <!-- BlackBar style -->
+    <style name="BlackBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">#1A1A1A</item>
+    </style>
+
+    <style name="AppTheme">theme</style>
+
+    <style name="OvalButtonStyle">BUTTON</style>
+
+</resources>
